@@ -6,6 +6,7 @@ requirements = [
     'xlrd>=1.1.0',
     'pandas>=0.23',
     'pytest>=4.4.0',
+    'openpyxl'
 ]
 
 setup(name='bayesian_benchmarks',
